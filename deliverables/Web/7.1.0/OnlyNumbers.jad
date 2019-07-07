@@ -1,0 +1,40 @@
+MIDlet-Name: Only Numbers
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: BlackBerry Developer
+MIDlet-Jar-URL: Only Numbers.jar
+MIDlet-Jar-Size: 864172
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: ,img/iconnumb.png,
+RIM-MIDlet-Flags-1: 0
+Manifest-Version: 1.0
+RIM-COD-URL: OnlyNumbers.cod
+RIM-COD-Size: 56352
+RIM-COD-Creation-Time: 1360951177
+RIM-COD-Module-Name: OnlyNumbers
+RIM-COD-Module-Dependencies: net_rim_cldc
+RIM-COD-SHA1: b4 38 c8 4c ca 94 d9 72 06 de 03 4f 3f 51 05 ba d3 9e 90 0c
+RIM-COD-URL-1: OnlyNumbers-1.cod
+RIM-COD-Size-1: 58712
+RIM-COD-SHA1-1: 92 57 27 c0 7e ce c8 49 a4 d5 0e 87 fa f5 5c 31 f2 5c ec c6
+RIM-COD-URL-2: OnlyNumbers-2.cod
+RIM-COD-Size-2: 46584
+RIM-COD-SHA1-2: 90 11 c5 0f d2 e9 42 ad 66 88 8c 9a d7 3b fb 04 dd 00 c1 70
+RIM-COD-URL-3: OnlyNumbers-3.cod
+RIM-COD-Size-3: 24188
+RIM-COD-SHA1-3: dd b0 97 21 4e 99 08 13 e0 37 c7 cd aa 3e b7 be 0a c7 32 f4
+RIM-COD-URL-4: OnlyNumbers-4.cod
+RIM-COD-Size-4: 48604
+RIM-COD-SHA1-4: 44 de c6 d9 49 d9 ef c9 5d 1a d9 42 c8 79 5d 98 31 1c d0 1f
+RIM-COD-URL-5: OnlyNumbers-5.cod
+RIM-COD-Size-5: 47812
+RIM-COD-SHA1-5: a6 d2 1c 43 2c 95 d5 0a 07 54 8c f2 93 13 cf 09 fa be cc 78
+RIM-COD-URL-6: OnlyNumbers-6.cod
+RIM-COD-Size-6: 61916
+RIM-COD-SHA1-6: ca 81 b2 07 18 1a c8 f6 07 d9 44 fd 7d 49 53 53 ac 5e 5c 19
+RIM-COD-URL-7: OnlyNumbers-7.cod
+RIM-COD-Size-7: 61856
+RIM-COD-SHA1-7: 6a df 45 b3 0b 95 44 80 37 6c 7e ea a8 a6 0c 0c 9c 20 2c 49
+RIM-COD-URL-8: OnlyNumbers-8.cod
+RIM-COD-Size-8: 52676
+RIM-COD-SHA1-8: 77 3a 26 a1 2b e1 6d 66 a4 a5 ed 8b 45 78 2a 05 82 b3 e9 93
